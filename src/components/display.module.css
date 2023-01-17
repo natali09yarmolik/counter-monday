@@ -1,0 +1,28 @@
+.displayBlock{
+    width: 230px;
+    height: 120px;
+    border-radius: 10px;
+    background-color: #61dafb;
+    color: #282c34;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.displayBlockMax{
+    width: 230px;
+    height: 120px;
+    border-radius: 10px;
+    background-color: #61dafb;
+    color: red;
+    font-size: 65px;
+    font-weight: bold;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
